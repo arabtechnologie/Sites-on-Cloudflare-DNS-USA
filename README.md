@@ -1,0 +1,2 @@
+# Sites-on-Cloudflare-DNS-USA
+This is an (archived) list of sites on Cloudflare DNS at the time of the CloudBleed HTTPS traffic leak announcement. Original vuln thread by Google Project Zero.  Cloudflare has posted a very detailed response, explaining exactly what the implications of this leak are. It thoroughly explains their language in earlier statements, and I highly recommend reading it before looking through this list for domains: https://blog.cloudflare.com/quantifying-the-impact-of-cloudbleed/
